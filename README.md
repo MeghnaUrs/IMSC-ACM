@@ -1,7 +1,7 @@
 # IMSC-ACM
-Classification system as a part of ACM Multimedia Product Image Recognition Challenge using PyTorch and transfer learning techniques
+Classification system as a part of ACM Multimedia Product Image Recognition Challenge using PyTorch and transfer learning techniques.
 
-**Problem Statment:** Find exact match for test images from training image dataset with 0.5 million beauty product images 
+**Problem Statment:** Find exact match for test images from training image dataset with 0.5 million beauty product images.
 
 **Network Architecture:** ResNet based autoencoder pretrained on ImageNet.
 The code downloads ResNet architecture pretrained on imageNet from pyTorch.org or loads the model if it is already downloaded.
